@@ -1,5 +1,7 @@
 # pr-self-check
 
+_By [Tahe Ben Said](https://tahebensaid.dev), senior mobile engineer. More apps and tools at [tahebensaid.dev](https://tahebensaid.dev)._
+
 Reviews your own diff before you open a pull request, and catches the stuff a reviewer shouldn't have to point out: a forgotten `console.log`, a key in the code, a merge conflict marker, a 900-line PR.
 
 It works with any language and any stack. One Python file, standard library only.
